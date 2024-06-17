@@ -1,0 +1,5 @@
+SpeechRecognition
+pyaudio
+pydub
+noisereduce
+webrtcvad
