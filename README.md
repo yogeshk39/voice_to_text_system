@@ -14,21 +14,23 @@ This project implements a robust voice-to-text (speech recognition) system capab
 -> Example Usage
 Here’s an example scenario for testing:
 
-Audio Pre-processing:
+1) Audio Pre-processing:
 
 Prepare a noisy audio file (sample.wav) in your project directory.
 Run python audio_processing.py sample.wav.
 Check the generated chunk0.wav, chunk1.wav, etc., files for processed audio chunks.
-Real-Time Transcription:
+
+2) Real-Time Transcription:
 
 Ensure your microphone is connected and working.
 Run python real_time_transcription.py.
 Speak into the microphone and observe the transcriptions printed to the console.
+
 Notes
-Microphone Access: Ensure your system allows access to the microphone for real-time transcription.
-Testing Environment: Use different audio samples and speaking styles to evaluate the system's performance.
-Output: Monitor the console for any errors or issues during execution.
-By following these steps, you can effectively test your voice-to-text system project and ensure it performs as expected before presenting it for evaluation or deployment.
+a) Microphone Access: Ensure your system allows access to the microphone for real-time transcription.
+b) Testing Environment: Use different audio samples and speaking styles to evaluate the system's performance.
+c) Output: Monitor the console for any errors or issues during execution.
+By following these steps, you can effectively test your voice-to-text system project.
 
 ## Project Structure
 
