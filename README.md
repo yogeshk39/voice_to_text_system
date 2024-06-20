@@ -1,5 +1,5 @@
 
-```markdown
+markdown
 # Voice-to-Text System
 
 ## Overview
@@ -13,34 +13,34 @@ This project implements a voice-to-text (speech recognition) system in Python us
 
 ## Installation
 1. Clone the repository:
-   ```
+   
    git clone <repository-url>
    cd voice-to-text-system
-   ```
+   
 
 2. Install dependencies using `pip`:
-   ```
+   
    pip install -r requirements.txt
-   ```
+   
    - Make sure Python and pip are installed on your system.
 
 3. Set up `pyaudio` (dependency for microphone access):
    - For Windows:
-     ```
+     
      pip install pipwin
      pipwin install pyaudio
-     ```
+     
    - For macOS:
-     ```
+     
      brew install portaudio
      pip install pyaudio
-     ```
+     
 
 ## Usage
 1. Run the script:
-   ```
+   
    python voice_to_text.py
-   ```
+   
 
 2. Follow the on-screen prompts:
    - Speak into the microphone when prompted.
@@ -62,7 +62,7 @@ This project is licensed under the [MIT License](LICENSE).
 For any questions or feedback, feel free to reach out:
 - Email: your.email@example.com
 - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-```
+
 
 ### Explanation:
 
