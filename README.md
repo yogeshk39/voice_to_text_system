@@ -1,5 +1,5 @@
 
-markdown
+
 # Voice-to-Text System
 
 ## Overview
@@ -57,12 +57,6 @@ Contributions are welcome! Here's how you can contribute to the project:
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any questions or feedback, feel free to reach out:
-- Email: your.email@example.com
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-
 
 ### Explanation:
 
